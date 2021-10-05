@@ -1,0 +1,39 @@
+Basics of Java and OOP in Java:
+
+1) Java programming language was developed by James Gosling by sun Microsystems and released it in the year 1995 as a core component.
+2) It was considered as core component of Sun Microsystems.
+3) Java even supports multiple editions like - Java Platform Micro Edition(Java ME), Java Platform Standard Edition(Java SE), Java Platform Enterprise Edition(Java EE)
+4) "Write once, Run anywhere" is one of the main reason why everyone love to learn and code in java.
+5) Some of the important features of java are:
+    - Platform Independent
+    - Simple
+    - Secure
+    - Object Oriented
+    - Portable
+    - Multi threaded programs
+    - Robust
+    - Interpreted
+    - High performance
+6) Lifecycle of java program:
+    - Edit
+    - Compile
+    - Load
+    - Execute
+7) Object Oriented Programming organizes a given program around objects and well-defined interfaces.
+8) OOP Concepts in Java are:
+    - Abstraction
+        - Shows only necessary details of object to clients.
+        - Public methods are the only methods which can be accesed by any client.
+    - Encapsulation 
+        - It hides the irrelavant information.
+        - Most of the time, it hides the class implementations.
+        - Helps in maintaining code.
+    - Inheritance
+        - It is a mechanism in which one object acquires all the properties and behaviors of a parent object.
+        - Used for Method Overriding, Code Reusability.
+        - Mainly 3 types of inheritance:
+            - Single inheritance
+            - Multilevel inheritance
+            - Hierarchical inheritance
+    - Polymorphism
+9) OOP tries to implement real world entities in programmatic manner.
